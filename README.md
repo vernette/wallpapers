@@ -1,5 +1,7 @@
 ## Gallery
 
+![GitHub repo size](https://img.shields.io/github/repo-size/vernette/wallpapers)
+
 <div align="center">
     <table>
         <tr>
