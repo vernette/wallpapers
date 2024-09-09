@@ -107,6 +107,9 @@
             <td>
                 <img src="28.png" width="250" height="145"/>
             </td>
+            <td>
+                <img src="29.png" width="250" height="145"/>
+            </td>
         </tr>
     </table>
 </div>
